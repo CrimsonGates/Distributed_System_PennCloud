@@ -7,5 +7,4 @@ A small distributed cloud platform with a webmail service like Gmail, and a stor
 
 Video Demo:
 
-![demo](https://github.com/CrimsonGates/Distributed_System_PennCloud/blob/main/misc/test_video.mp4?raw=true)
-
+[![demo](https://img.youtube.com/vi/MMBP0sdeoME/0.jpg)](https://www.youtube.com/watch?v=MMBP0sdeoME)
